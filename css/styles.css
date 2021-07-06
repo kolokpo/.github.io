@@ -608,6 +608,10 @@ progress {
   margin-left: auto;
 }
 
+.max-width {
+  max-width: 960px;
+}
+
 @media (min-width: 576px) {
   .container-sm, .container {
     max-width: 540px;
